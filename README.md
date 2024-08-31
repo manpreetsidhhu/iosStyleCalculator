@@ -1,6 +1,6 @@
 # iPhone Style Calculator 📱
 
-![Header Image](headerimage.png) <!-- Replace with your header image URL -->
+![Header Image](headderimage.png) <!-- Replace with your header image URL -->
 
 Welcome to the **iPhone Style Calculator**! This project replicates the sleek and minimalistic design of the official Apple iPhone calculator using **HTML**, **CSS**, and **JavaScript**. The calculator is fully responsive and offers a seamless user experience.
 
